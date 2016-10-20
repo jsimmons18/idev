@@ -92,3 +92,7 @@ list-style: lower-alpha;
 * html .group             { zoom: 1; } /* IE6 */
 *:first-child+html .group { zoom: 1; } /* IE7 */
 
+h1{
+	text-size:3rem;
+	color:#3FF;
+}
